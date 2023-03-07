@@ -1,3 +1,4 @@
+![logo](media/logo.svg)
 # Simple wrapper around chacha20poly1305 and scrypt
 Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data.<br>
 Can be used as a library or as a command line tool located in [cmd/cipherCli](cmd/cipherCli).
