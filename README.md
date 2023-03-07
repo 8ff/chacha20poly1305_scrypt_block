@@ -1,6 +1,5 @@
 # Simple wrapper around chacha20poly1305 and scrypt
 Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data.<br>
-For stream variant see [https://github.com/8ff/chacha20poly1305_scrypt_stream](https://github.com/8ff/chacha20poly1305_scrypt_stream).<br>
 Can be used as a library or as a command line tool located in [cmd/cipherCli](cmd/cipherCli).
 
 ## Library usage
